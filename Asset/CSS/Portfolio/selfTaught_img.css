@@ -1,0 +1,113 @@
+.image img{
+    box-shadow: 0.3rem 0.3rem 1rem 0.4rem rgba(255, 101, 101,0.6) ;
+}
+.Java_swing_Counter{
+    position: absolute;
+    top: 7rem;
+    right: 25rem;
+    width: 14rem;
+    height: auto;
+    z-index: 1;
+}
+.Java_swing_Mouse{
+    width: 15rem;
+    height: auto;
+    position: absolute;
+    top: 10rem;
+    right: 4rem;
+    z-index: 1;
+}
+.Java_swing_Mouse2{
+    width: 16rem;
+    height: auto;
+    position: absolute;
+    top: 16rem;
+    right: 16rem;
+    z-index: 0;
+}
+.Java_swing_Mouse2:hover{
+    z-index: 2;
+}
+.Java_swing_PressNum{
+    position: absolute;
+    top: 27rem;
+    right: 21rem;
+    width: 18rem;
+    height: auto;
+}
+.image_100DaysCSS img{
+    box-shadow: 0.3rem 0.3rem 1rem 0.4rem rgba(146, 228, 253,0.5) ;
+}
+.image_100DaysCSS{
+    position: relative;
+}
+.DaysCSS_day3m{
+    width: 14rem;
+    height: auto;
+    position: absolute;
+    right: -15rem;
+    top: -11rem;
+}
+.DaysCSS_day3n{
+    width: 12rem;
+    height: auto;
+    position: absolute;
+    right: -28rem;
+    top: -11rem;
+}
+.DaysCSS_day6{
+    width: 17rem;
+    height: auto;
+    position: absolute;
+    top: -1rem;
+    right: -21rem;
+}
+
+.CSSslider{
+    width: 21rem;
+    height: auto;
+    position: absolute;
+    top: 70rem;
+    right: 15rem;
+    
+}
+.Java_Collections_Map img{
+    box-shadow: 0.3rem 0.3rem 1rem 0.4rem rgba(146, 228, 253,0.5) ;
+}
+.ArrayList_Student{
+    height: auto;
+    width: 25rem ;
+    position: absolute;
+    top: 83rem;
+    right: 13rem;
+    z-index: 0;
+}
+.ArrayList_Student:hover{
+    z-index: 2;
+}
+.TreeMap_Dictionary{
+    width: 16rem;
+    height: auto;
+    position: absolute;
+    top: 93rem;
+    right:3rem;
+    z-index: 1;
+}
+.HashSet_Lottery{
+    width: 15rem;
+    height: auto;
+    position: absolute;
+    top: 98rem;
+    right: 18rem;
+    z-index: 0;
+}
+.HashSet_Lottery:hover{
+    z-index: 3;
+}
+.Home_page{
+    width: 23rem;
+    height: auto;
+    position: absolute;
+    top: 115rem;
+    right: 12rem;
+}
